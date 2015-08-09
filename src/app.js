@@ -9,9 +9,9 @@ var Vector2 = require('vector2');
 var ajax = require('ajax');
 
 var main = new UI.Card({
-  title: 'Pebble.js',
+  title: 'Updates',
   icon: 'images/menu_icon.png',
-  subtitle: 'Hello World!',
+  subtitle: 'Hello Eric!',
   body: 'Press any button.'
 });
 
